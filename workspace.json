@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "neocharts": "apps/neocharts",
+    "neocharts-e2e": "apps/neocharts-e2e"
+  }
+}
